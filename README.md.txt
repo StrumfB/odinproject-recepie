@@ -1,0 +1,1 @@
+This is my first project for The Odin Project (it took 1 and a half hours to finish), I think it looks nice. I demonstrated basic HTML
